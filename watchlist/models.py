@@ -2,7 +2,7 @@
 @Project ：Dimension_reduction.py 
 @File    ：models.py
 @IDE     ：PyCharm 
-@Author  ：成佳闻
+@Author  ：Komorebi
 @Date    ：2023/9/24 23:30 
 '''
 from flask_login import UserMixin

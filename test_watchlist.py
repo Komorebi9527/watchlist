@@ -2,7 +2,7 @@
 @Project ：Dimension_reduction.py 
 @File    ：test_watchlist.py
 @IDE     ：PyCharm 
-@Author  ：成佳闻
+@Author  ：Komorebi
 @Date    ：2023/9/24 21:54 
 '''
 #用来测试watchlist里面的一些功能是否能够正常运作

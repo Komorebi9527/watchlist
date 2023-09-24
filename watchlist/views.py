@@ -2,7 +2,7 @@
 @Project ：Dimension_reduction.py 
 @File    ：views.py
 @IDE     ：PyCharm 
-@Author  ：成佳闻
+@Author  ：Komorebi
 @Date    ：2023/9/24 23:32 
 '''
 from flask import render_template, request, url_for, redirect, flash

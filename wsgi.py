@@ -2,7 +2,7 @@
 @Project ：Dimension_reduction.py 
 @File    ：wsgi.py
 @IDE     ：PyCharm 
-@Author  ：成佳闻
+@Author  ：Komorebi
 @Date    ：2023/9/24 23:56 
 '''
 import os
